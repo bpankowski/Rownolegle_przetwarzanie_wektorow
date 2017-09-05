@@ -1,0 +1,29 @@
+timings (proc 0):
+	readData: 0.0057395
+	processData: 0.000154882
+	reduceResults: 8.39721e-06
+	total: 0.00590278
+
+timings (proc 1):
+	readData: 0.00564526
+	processData: 0.000157681
+	reduceResults: 1.21293e-05
+	total: 0.00581507
+
+timings (proc 2):
+	readData: 0.00558368
+	processData: 0.000102166
+	reduceResults: 7.4642e-06
+	total: 0.00569331
+
+timings (proc 3):
+	readData: 0.0053187
+	processData: 0.000118961
+	reduceResults: 8.86373e-06
+	total: 0.00544653
+
+total timings:
+	readData: 0.0222871
+	processData: 0.00053369
+	reduceResults: 3.68545e-05
+	total: 0.0228577

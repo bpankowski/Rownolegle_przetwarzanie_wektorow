@@ -1,0 +1,11 @@
+timings (proc 0):
+	readData: 76334.7
+	processData: 76334.7
+	reduceResults: 8.39721e-06
+	total: 76334.7
+
+total timings:
+	readData: 0.000787939
+	processData: 76334.7
+	reduceResults: 8.39721e-06
+	total: 76334.7

@@ -1,0 +1,392 @@
+Proc: 0
+
+ReadData: 0.00201252
+ProcessData: 0.000424058
+Reduce: 1.25958e-05
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 0.00201252
+ProcessData: 0.000424058
+Reduce: 1.25958e-05
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 0.00323618
+ProcessData: 0.000227657
+Reduce: 0.00140699
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 9.25596e+61
+ProcessData: 2.33254e-06
+Reduce: 0.000187071
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 9.25596e+61
+ProcessData: 0.000229989
+Reduce: 0.00159406
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 9.25596e+61
+ProcessData: 2.79906e-06
+Reduce: 6.99764e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 9.25596e+61
+ProcessData: 2.79906e-06
+Reduce: 6.99764e-06
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 85372
+ProcessData: 7.93066e-06
+Reduce: 7.93068e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 85372
+ProcessData: 7.93066e-06
+Reduce: 7.93068e-06
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 85378.8
+ProcessData: 2.33256e-06
+Reduce: 9.70341e-05
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 85378.8
+ProcessData: 2.33254e-06
+Reduce: 9.79671e-06
+Total: -6.27744e+66
+
+Proc: 2
+
+ReadData: 85378.8
+ProcessData: 2.79906e-06
+Reduce: 9.1436e-05
+Total: -6.27744e+66
+
+Proc: 3
+
+ReadData: 85378.8
+ProcessData: 1.86604e-06
+Reduce: 9.33021e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 341515
+ProcessData: 9.33019e-06
+Reduce: 0.000207597
+Total: -2.51098e+67
+
+Proc: 0
+
+ReadData: 85500.7
+ProcessData: 2.33256e-06
+Reduce: 8.86369e-05
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 85500.7
+ProcessData: 1.86604e-06
+Reduce: 9.33021e-06
+Total: -6.27744e+66
+
+Proc: 2
+
+ReadData: 85500.7
+ProcessData: 2.33256e-06
+Reduce: 8.35053e-05
+Total: -6.27744e+66
+
+Proc: 3
+
+ReadData: 85500.7
+ProcessData: 1.86605e-06
+Reduce: 9.7967e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 342003
+ProcessData: 8.3972e-06
+Reduce: 0.000191269
+Total: -2.51098e+67
+
+Proc: 0
+
+ReadData: 85572
+ProcessData: 2.33254e-06
+Reduce: 8.86369e-05
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 85572
+ProcessData: 1.86604e-06
+Reduce: 9.79671e-06
+Total: -6.27744e+66
+
+Proc: 2
+
+ReadData: 85572
+ProcessData: 1.86605e-06
+Reduce: 8.58378e-05
+Total: -6.27744e+66
+
+Proc: 3
+
+ReadData: 85572
+ProcessData: 1.86605e-06
+Reduce: 8.86369e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 342288
+ProcessData: 7.93068e-06
+Reduce: 0.000193135
+Total: -2.51098e+67
+
+Proc: 0
+
+ReadData: 0.00232369
+ProcessData: 0.000129223
+Reduce: 0.000541618
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 85692.8
+ProcessData: 1.16627e-05
+Reduce: 0.000160013
+Total: -6.27744e+66
+
+Proc: 2
+
+ReadData: 85692.8
+ProcessData: 7.46416e-06
+Reduce: 0.00034755
+Total: -6.27744e+66
+
+Proc: 3
+
+ReadData: 85692.8
+ProcessData: 1.07297e-05
+Reduce: 0.000165145
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 257079
+ProcessData: 0.00015908
+Reduce: 0.00121433
+Total: -2.51098e+67
+
+Proc: 0
+
+ReadData: 85847.8
+ProcessData: 3.26557e-06
+Reduce: 6.53115e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 85847.8
+ProcessData: 3.26557e-06
+Reduce: 6.53115e-06
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 85854.1
+ProcessData: 2.33256e-06
+Reduce: 7.46416e-06
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 85854.1
+ProcessData: 2.33256e-06
+Reduce: 7.46416e-06
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 0.384314
+ProcessData: 0.000463713
+Reduce: 1.35288e-05
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 0.384314
+ProcessData: 0.000463713
+Reduce: 1.35288e-05
+Total: -6.27744e+66
+
+Proc: 0
+
+ReadData: 5942.36
+ProcessData: 4.66512e-06
+Reduce: 0.000290637
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 5941.12
+ProcessData: 1.86605e-06
+Reduce: 0.000172143
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 11883.5
+ProcessData: 6.53117e-06
+Reduce: 0.00046278
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00226492
+ProcessData: 0.000226725
+Reduce: 0.000303233
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 6207.1
+ProcessData: 2.33256e-06
+Reduce: 0.000245852
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 6207.1
+ProcessData: 0.000229057
+Reduce: 0.000549085
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00216462
+ProcessData: 0.000227658
+Reduce: 0.00035175
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 6295.25
+ProcessData: 1.21293e-05
+Reduce: 0.00019127
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 6295.25
+ProcessData: 0.000239787
+Reduce: 0.00054302
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00483773
+ProcessData: 0.000226725
+Reduce: 0.000187071
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 6758.13
+ProcessData: 1.39954e-05
+Reduce: 0.000176342
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 6758.13
+ProcessData: 0.00024072
+Reduce: 0.000363413
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00207924
+ProcessData: 0.000225325
+Reduce: 0.000257981
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 6811.35
+ProcessData: 9.79675e-06
+Reduce: 0.000140887
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 6811.35
+ProcessData: 0.000235122
+Reduce: 0.000398868
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00701634
+ProcessData: 0.000241187
+Reduce: 0.000174009
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 6969.58
+ProcessData: 4.66512e-07
+Reduce: 0.000202466
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 6969.58
+ProcessData: 0.000241653
+Reduce: 0.000376475
+Total: -1.25549e+67
+
+Proc: 0
+
+ReadData: 0.00579968
+ProcessData: 7.7441e-05
+Reduce: 0.000215062
+Total: -6.27744e+66
+
+Proc: 1
+
+ReadData: 7261.46
+ProcessData: 8.39721e-06
+Reduce: 0.00016048
+Total: -6.27744e+66
+
+Total Timing 
+
+ReadData: 7261.47
+ProcessData: 8.58382e-05
+Reduce: 0.000375542
+Total: -1.25549e+67
+
